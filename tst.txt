@@ -1,0 +1,14 @@
+print("h");
+println("i");
+x = 10;
+while x > 1 do
+    println(x);
+    x = x - 1;
+end
+if x == 1 then
+    print(x);
+    println(" equals one");
+else
+    print(x);
+    println(" does not equal one");
+end
